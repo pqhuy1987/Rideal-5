@@ -1,0 +1,55 @@
+//
+//  PrefixHeader.pch
+//  QFC
+//
+//  Created by OSX on 20/01/16.
+//  Copyright (c) 2016 Harpreet. All rights reserved.
+//
+
+#ifndef brokebookie_PrefixHeader_pch
+#define brokebookie_PrefixHeader_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import <CoreData/CoreData.h>
+#import <SystemConfiguration/SystemConfiguration.h>
+#import <MobileCoreServices/MobileCoreServices.h>
+
+
+#define DEFAULTS         [NSUserDefaults standardUserDefaults]
+#define BOTH              @"ic_both_driver_icon"
+#define UBER              @"ic_uber_driver_icon"
+#define LYFT              @"ic_lyft_driver_icon"
+
+#define RESULT_OK 0
+#define RESULT_FAIL 1
+#define KEY_ERROR @"error"
+
+#define Authorization                                      @""
+
+//#define API_HOST                             @"http://webmantechnologies.com/rideal/index.php/webservice/"
+#define API_HOST                             @"http://54.149.39.72/rideal/index.php/webservice/"
+#define BASE_URL_SI                                @"magazine/api/users/"
+#define BASE_URL_M                                @"si_magazine/web-services/"
+#define GET_LOGIN_API                           API_HOST "login?"
+#define GET_TERMS_AND_CONDITIONS                API_HOST "getterms"
+#define GET_REGISTER_API                        API_HOST "registration?"
+#define GET_FORGET_PASSWORD_API                 API_HOST "forgotpassword?"
+#define GET_STATUS_API                          API_HOST "getStatus?"
+#define UPDATE_STATUS_API                       API_HOST "updateStatus?"
+#define UPDATE_LOCATION_API                     API_HOST "updateLocation?"
+#define BLOCK_CHAT_USER                         API_HOST "blockChat?"
+#define SEND_MESSAGE_API                        API_HOST "sendMsg?"
+#define INBOX_CHAT                              API_HOST "inbox?"
+#define GET_ALL_CHAT                            API_HOST "getchat?"
+#define UPDATE_PROFILE                           API_HOST "profile?"
+
+
+#endif
+
