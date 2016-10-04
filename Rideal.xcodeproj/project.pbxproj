@@ -8,12 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		10137AD41D98E579000F350C /* Reachability.m in Sources */ = {isa = PBXBuildFile; fileRef = 10137AD31D98E579000F350C /* Reachability.m */; };
-		10137AE31D98FA77000F350C /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 10137AD71D98FA77000F350C /* AFHTTPSessionManager.m */; };
-		10137AE41D98FA77000F350C /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 10137ADA1D98FA77000F350C /* AFNetworkReachabilityManager.m */; };
-		10137AE51D98FA77000F350C /* AFSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 10137ADC1D98FA77000F350C /* AFSecurityPolicy.m */; };
-		10137AE61D98FA77000F350C /* AFURLRequestSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 10137ADE1D98FA77000F350C /* AFURLRequestSerialization.m */; };
-		10137AE71D98FA77000F350C /* AFURLResponseSerialization.m in Sources */ = {isa = PBXBuildFile; fileRef = 10137AE01D98FA77000F350C /* AFURLResponseSerialization.m */; };
-		10137AE81D98FA77000F350C /* AFURLSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 10137AE21D98FA77000F350C /* AFURLSessionManager.m */; };
 		1047CE6A1D797D6A00A674B4 /* ChatInboxCustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 1047CE691D797D6A00A674B4 /* ChatInboxCustomCell.m */; };
 		1047CE6C1D798F9600A674B4 /* backWhite.png in Resources */ = {isa = PBXBuildFile; fileRef = 1047CE6B1D798F9600A674B4 /* backWhite.png */; };
 		1047CE771D79A81C00A674B4 /* PrivacyPolicyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1047CE761D79A81C00A674B4 /* PrivacyPolicyViewController.m */; };
@@ -86,19 +80,6 @@
 		0435FCF0C3D353C5DA640F16 /* Pods-Rideal.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Rideal.release.xcconfig"; path = "Pods/Target Support Files/Pods-Rideal/Pods-Rideal.release.xcconfig"; sourceTree = "<group>"; };
 		10137AD21D98E579000F350C /* Reachability.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Reachability.h; sourceTree = "<group>"; };
 		10137AD31D98E579000F350C /* Reachability.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Reachability.m; sourceTree = "<group>"; };
-		10137AD61D98FA77000F350C /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
-		10137AD71D98FA77000F350C /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
-		10137AD81D98FA77000F350C /* AFNetworking.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworking.h; sourceTree = "<group>"; };
-		10137AD91D98FA77000F350C /* AFNetworkReachabilityManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFNetworkReachabilityManager.h; sourceTree = "<group>"; };
-		10137ADA1D98FA77000F350C /* AFNetworkReachabilityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFNetworkReachabilityManager.m; sourceTree = "<group>"; };
-		10137ADB1D98FA77000F350C /* AFSecurityPolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFSecurityPolicy.h; sourceTree = "<group>"; };
-		10137ADC1D98FA77000F350C /* AFSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFSecurityPolicy.m; sourceTree = "<group>"; };
-		10137ADD1D98FA77000F350C /* AFURLRequestSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLRequestSerialization.h; sourceTree = "<group>"; };
-		10137ADE1D98FA77000F350C /* AFURLRequestSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLRequestSerialization.m; sourceTree = "<group>"; };
-		10137ADF1D98FA77000F350C /* AFURLResponseSerialization.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLResponseSerialization.h; sourceTree = "<group>"; };
-		10137AE01D98FA77000F350C /* AFURLResponseSerialization.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLResponseSerialization.m; sourceTree = "<group>"; };
-		10137AE11D98FA77000F350C /* AFURLSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFURLSessionManager.h; sourceTree = "<group>"; };
-		10137AE21D98FA77000F350C /* AFURLSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFURLSessionManager.m; sourceTree = "<group>"; };
 		1047CE681D797D6A00A674B4 /* ChatInboxCustomCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ChatInboxCustomCell.h; sourceTree = "<group>"; };
 		1047CE691D797D6A00A674B4 /* ChatInboxCustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ChatInboxCustomCell.m; sourceTree = "<group>"; };
 		1047CE6B1D798F9600A674B4 /* backWhite.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backWhite.png; sourceTree = "<group>"; };
@@ -218,26 +199,6 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		10137AD51D98FA77000F350C /* AFNetworking */ = {
-			isa = PBXGroup;
-			children = (
-				10137AD61D98FA77000F350C /* AFHTTPSessionManager.h */,
-				10137AD71D98FA77000F350C /* AFHTTPSessionManager.m */,
-				10137AD81D98FA77000F350C /* AFNetworking.h */,
-				10137AD91D98FA77000F350C /* AFNetworkReachabilityManager.h */,
-				10137ADA1D98FA77000F350C /* AFNetworkReachabilityManager.m */,
-				10137ADB1D98FA77000F350C /* AFSecurityPolicy.h */,
-				10137ADC1D98FA77000F350C /* AFSecurityPolicy.m */,
-				10137ADD1D98FA77000F350C /* AFURLRequestSerialization.h */,
-				10137ADE1D98FA77000F350C /* AFURLRequestSerialization.m */,
-				10137ADF1D98FA77000F350C /* AFURLResponseSerialization.h */,
-				10137AE01D98FA77000F350C /* AFURLResponseSerialization.m */,
-				10137AE11D98FA77000F350C /* AFURLSessionManager.h */,
-				10137AE21D98FA77000F350C /* AFURLSessionManager.m */,
-			);
-			path = AFNetworking;
-			sourceTree = "<group>";
-		};
 		1047CE661D797D2600A674B4 /* Chat Table Cell */ = {
 			isa = PBXGroup;
 			children = (
@@ -330,7 +291,6 @@
 			children = (
 				10137AD21D98E579000F350C /* Reachability.h */,
 				10137AD31D98E579000F350C /* Reachability.m */,
-				10137AD51D98FA77000F350C /* AFNetworking */,
 				10E95B421D700D9600906AD5 /* Model */,
 				10FBB1221D6EF1D900C24B15 /* Images */,
 				10FBB1051D6EDC6800C24B15 /* REFrostedViewController */,
@@ -464,7 +424,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 10FBB0BE1D6ECF7000C24B15 /* Build configuration list for PBXNativeTarget "Rideal" */;
 			buildPhases = (
-				91D5CED73E839611F66E74A5 /* 📦 Check Pods Manifest.lock */,
+				91D5CED73E839611F66E74A5 /* [CP] Check Pods Manifest.lock */,
 				133582AEBBEBA451E4B9A536 /* [CP] Check Pods Manifest.lock */,
 				10FBB0A31D6ECF7000C24B15 /* Sources */,
 				10FBB0A41D6ECF7000C24B15 /* Frameworks */,
@@ -494,7 +454,7 @@
 				TargetAttributes = {
 					10FBB0A61D6ECF7000C24B15 = {
 						CreatedOnToolsVersion = 7.2;
-						DevelopmentTeam = QRL5W8B7L8;
+						DevelopmentTeam = JQNK74493B;
 					};
 				};
 			};
@@ -616,19 +576,19 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Rideal/Pods-Rideal-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		91D5CED73E839611F66E74A5 /* 📦 Check Pods Manifest.lock */ = {
+		91D5CED73E839611F66E74A5 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 			);
-			name = "📦 Check Pods Manifest.lock";
+			name = "[CP] Check Pods Manifest.lock";
 			outputPaths = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
 		ADEC17DDC0F28221D61C4DC3 /* [CP] Copy Pods Resources */ = {
@@ -657,9 +617,7 @@
 				10FBB1141D6EDC7500C24B15 /* REFrostedViewController.m in Sources */,
 				10FBB1211D6EDCAB00C24B15 /* DEMORootViewController.m in Sources */,
 				10137AD41D98E579000F350C /* Reachability.m in Sources */,
-				10137AE51D98FA77000F350C /* AFSecurityPolicy.m in Sources */,
 				10FBB0B21D6ECF7000C24B15 /* ViewController.m in Sources */,
-				10137AE31D98FA77000F350C /* AFHTTPSessionManager.m in Sources */,
 				10F457631D7D823E00F9A196 /* MessageViewCell.m in Sources */,
 				10FBB1161D6EDC7500C24B15 /* UIView+REFrostedViewController.m in Sources */,
 				1047CE6A1D797D6A00A674B4 /* ChatInboxCustomCell.m in Sources */,
@@ -670,10 +628,6 @@
 				10FBB0AF1D6ECF7000C24B15 /* AppDelegate.m in Sources */,
 				10F457601D7D801E00F9A196 /* MessagesViewController.m in Sources */,
 				10FBB0AC1D6ECF7000C24B15 /* main.m in Sources */,
-				10137AE61D98FA77000F350C /* AFURLRequestSerialization.m in Sources */,
-				10137AE81D98FA77000F350C /* AFURLSessionManager.m in Sources */,
-				10137AE71D98FA77000F350C /* AFURLResponseSerialization.m in Sources */,
-				10137AE41D98FA77000F350C /* AFNetworkReachabilityManager.m in Sources */,
 				10C70D111D7549FA00CE7C92 /* ChatInboxViewController.m in Sources */,
 				10E95B451D700DA000906AD5 /* DataModel.m in Sources */,
 				10FBB1041D6ED9AD00C24B15 /* HomeViewController.m in Sources */,
@@ -796,8 +750,8 @@
 			baseConfigurationReference = FA0C4FB3BD3D5F7D50B239EA /* Pods-Rideal.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: qaher salahaldin (QRL5W8B7L8)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: qaher salahaldin (QRL5W8B7L8)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -808,7 +762,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.RidealAdhoc.IOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d0df5af7-48a3-40cc-8f13-7f49bab9ddba";
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
@@ -818,8 +772,8 @@
 			baseConfigurationReference = 0435FCF0C3D353C5DA640F16 /* Pods-Rideal.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: qaher salahaldin (QRL5W8B7L8)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: qaher salahaldin (QRL5W8B7L8)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -830,7 +784,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.RidealAdhoc.IOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "d0df5af7-48a3-40cc-8f13-7f49bab9ddba";
+				PROVISIONING_PROFILE = "";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
